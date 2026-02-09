@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Mario](https://www.linkedin.com/in/mario-ametrano-a75a38229/) a QA Automation Engineer based in Italy.
+I'm [Mario](https://www.linkedin.com/in/mario-ametrano-a75a38229/) a QA Automation Engineer based in Italy. 🇮🇹
 
 I bridge the gap between development and testing.🎭
 
