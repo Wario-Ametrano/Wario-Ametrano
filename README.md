@@ -13,11 +13,6 @@ I enjoy bridging the gap between development and quality, ensuring that software
 I’m passionate about improving both the tests and the software behind them.
 [Here](https://www.linkedin.com/posts/mario-ametrano-a75a38229_in-this-video-i-run-a-test-created-by-me-activity-7424804089877929984-2vjL/)’s an end-to-end Playwright test for a musical instrument e-commerce platform.
 
-You can explore my repositories to:
-- See real-world testing flows
-- Explore projects and courses I’ve worked on
-- Share feedback or ideas
-
  ### Fun Facts 🦖
 - I genuinely enjoy the open-source world and constantly experiment with new tools and ideas.
 - I often create mods for Doom and Quake
