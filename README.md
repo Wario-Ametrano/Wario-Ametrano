@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mario [Mario](https://www.linkedin.com/in/mario-ametrano-a75a38229/) 👋
 
-I'm [Mario](https://www.linkedin.com/in/mario-ametrano-a75a38229/) a QA Automation Engineer based in Italy. 🇮🇹
+QA Automation Engineer based in Italy 🇮🇹
 
-I bridge the gap between development and testing.🎭
+I specialize in building reliable, maintainable, and scalable automated testing solutions.
+I enjoy bridging the gap between development and quality, ensuring that software is not only functional, but resilient and trustworthy.
 
-I try to do everything I can to improve my tests and the software. Sometimes I even try to do the impossible, but it doesn't always work. I always have a lot of projects I'm working on, and I really like the open source world.
+### What I Do 🚀
+- Design and develop end-to-end automated tests
+- Improve test reliability and performance
+- Work with modern testing frameworks like Playwright
+- Focus on clean code, maintainability, and best practices
+- Continuously explore better testing strategies
 
+I’m passionate about improving both the tests and the software behind them.
 
-Sometimes I also like to make videos about my projects. [Here](https://www.linkedin.com/posts/mario-ametrano-a75a38229_in-this-video-i-run-a-test-created-by-me-activity-7424804089877929984-2vjL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlItvkBH6KzPePdNKkp2gkfIj2yEEO589U) s an automated test I created using Playwright for a musical instrument purchasing platform.
-I have many repositories here on GitHub with projects and courses I’ve worked on. If you’d like, you can take a look, get some inspiration, or share your thoughts.
+### Projects & Experiments 🎥
 
-🦖 Fun Facts:
+I regularly build automation projects and sometimes share video demonstrations of test execution.
+if you're curious [Here](https://www.linkedin.com/posts/mario-ametrano-a75a38229_in-this-video-i-run-a-test-created-by-me-activity-7424804089877929984-2vjL/) is an automated test example.
+An automated end-to-end test built with Playwright for a musical instrument e-commerce platform.
+
+You can explore my repositories to:
+- See real-world testing flows
+- Explore projects and courses I’ve worked on
+- Share feedback or ideas
+
+ ### Open Source 🌍
+I genuinely enjoy the open-source world and constantly experiment with new tools and ideas.
+
+ ### Fun Facts 🦖
 - I like the 3D world
 - I often create mods for Doom and Quake
 - I really like walking in nature
