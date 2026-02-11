@@ -11,8 +11,6 @@ I enjoy bridging the gap between development and quality, ensuring that software
 - Work with modern testing frameworks like Playwright
 
 I’m passionate about improving both the tests and the software behind them.
-
-### Projects & Experiments 🎥
 [Here](https://www.linkedin.com/posts/mario-ametrano-a75a38229_in-this-video-i-run-a-test-created-by-me-activity-7424804089877929984-2vjL/)’s an end-to-end Playwright test for a musical instrument e-commerce platform.
 
 You can explore my repositories to:
