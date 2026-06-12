@@ -1,4 +1,4 @@
-# Hi, I'm [Mario](https://www.linkedin.com/in/mario-ametrano-a75a38229/) 👋
+# Hi, I'm [Mario](https://www.linkedin.com/in/mario-ametrano-a75a38229/)👋
 
 ## QA Automation Engineer based in Italy 🇮🇹
 
